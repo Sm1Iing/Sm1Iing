@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Olesya 🍃</h1>
 <h3 align="center">你好，我叫林溪</h3>
 
-<p align="left">
+<p align="right">
   second-year Applied Mathematics and Computer Science student  
   <br>
   应用数学与计算机科学专业的大二学生
