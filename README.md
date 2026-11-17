@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Olesya 🍃</h1>
-<h3 align="center">你好，我叫林溪。 🍃</h3>
+<h1 align="center">你好，我叫林溪</h2>
 
 <p align="center">
   second-year Applied Mathematics and Computer Science student  
